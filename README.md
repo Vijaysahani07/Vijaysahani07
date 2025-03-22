@@ -18,13 +18,13 @@ Passionate about solving complex problems, I specialize in Java, Spring Boot, Mi
 
 
  ## What I Do:-
- 
-🔹 Develop scalable backend services using Spring Boot & Microservices
+
 🔹 Build RESTful APIs and integrate with frontend applications  
-🔹 Optimize application performance and security with Spring Security & JWT  
 🔹 Work with Redis & Kafka for high-performance data handling  
 🔹 Automate deployments with CI/CD pipelines using Jenkins & GitHub Actions  
 🔹 Deploy applications on AWS & Kubernetes
+🔹Optimize application performance and security with Spring Security & JWT  
+
 
  ## GitHub Stats & Contributions:-
  
@@ -34,8 +34,11 @@ Passionate about solving complex problems, I specialize in Java, Spring Boot, Mi
 💡 I love learning new technologies, solving DSA problems, and contributing to open-source projects!  
 
 ## Let's Connect!  
+
 📱 Phone: +91 8860837446
-📩 Email: sahani0vijay@gmail.com  
+
+📩 Email: sahani0vijay@gmail.com 
+
 🔗 LinkedIn: www.linkedin.com/in/vijay-sahani-a74403144
  
 
