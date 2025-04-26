@@ -4,7 +4,7 @@
 
 🚀 Java Full Stack Developer | Backend Engineer | Microservices | Cloud & DevOps  
 
-I am a Java Full Stack Developer with 2 years of experience in building scalable web applications and backend systems.
+I am a Java Full Stack Developer in building scalable web applications and backend systems.
 Passionate about solving complex problems, I specialize in Java, Spring Boot, Microservices, and Cloud Technologies.  
 
 ## Tech Stack:-
